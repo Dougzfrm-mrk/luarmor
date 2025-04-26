@@ -1,6 +1,6 @@
 local creator = game:GetService("MarketplaceService"):GetProductInfo(game.PlaceId).Creator.CreatorTargetId
 coroutine.wrap(function()
-if game.PlaceId == 10449761463 then --- TSB
+if game.PlaceId == 16472538603 then --- TSB
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/1ac9b54586a547470e1dd3bdc77ee94c.lua"))()
 
 elseif game.PlaceId == 891852901 then --- GreenVille
